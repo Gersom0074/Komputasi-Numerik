@@ -1,0 +1,15 @@
+ ALGORITMA PENYELESAIAN SPLTV (METODE ELIMINASI GAUSS) 
+
+1. Bentuk Matriks Augmented:
+   Gabungkan matriks koefisien A (3x3) dan vektor konstanta b (3x1) menjadi matriks augmented [A|b] berukuran 3x4.
+
+2. Eliminasi Forward (Forward Elimination):
+   Ubah matriks augmented menjadi bentuk segitiga atas menggunakan Operasi Baris Elementer (OBE):
+   - Pastikan elemen pivot pertama (a11) tidak bernilai nol (lakukan pivoting jika perlu).
+   - Eliminasi elemen di bawah pivot pada kolom pertama dan kedua.
+
+3. Substitusi Balik (Back-Substitution):
+   Setelah berbentuk segitiga atas, hitung nilai variabel dari bawah ke atas:
+   - Hitung nilai z dari baris ketiga.
+   - Hitung nilai y dengan mensubstitusikan z ke baris kedua.
+   - Hitung nilai x dengan mensubstitusikan y dan z ke baris pertama.
