@@ -1,0 +1,9 @@
+1. Tolong buatkan algoritma penyelesaian Sistem Persamaan Linear 3 Variabel (SPLTV) 
+menggunakan metode Eliminasi Gauss.
+2. Buatkan kode Python dalam bentuk cell-cell terpisah untuk
+ Google Colab guna menyelesaikan SPLTV.
+3. Simpan salinan di GitHub - Bagaimana cara menghubungkan
+ Google Colab ke repository GitHub?
+5. Buatkan penjelasan singkat dan jelas untuk cell ketiga 
+(fungsi Eliminasi Gauss dan eksekusi).
+
