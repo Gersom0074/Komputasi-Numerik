@@ -1,0 +1,13 @@
+Daftar Prompt AI yang Digunakan dalam Tugas Komputasi Numerik:
+
+1. Prompt untuk Algoritma SPLTV:
+"Tuliskan penjelasan langkah-langkah algoritma numerik untuk menyelesaikan
+ Sistem Persamaan Linear 3 Variabel menggunakan metode Eliminasi Gauss
+ dengan substitusi balik secara terstruktur."
+
+2. Prompt untuk Kode Python Google Colab:
+"Buatkan kode Python bersih menggunakan NumPy untuk menyelesaikan SPLTV 
+dengan metode Eliminasi Gauss yang dibagi menjadi beberapa cell terpisah 
+agar bisa dijalankan secara berurutan di Google Colab, lengkap dengan
+ komentar penjelasan di setiap baris kodenya.".
+
