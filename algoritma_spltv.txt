@@ -1,6 +1,7 @@
  ALGORITMA PENYELESAIAN SPLTV (METODE ELIMINASI GAUSS) 
 
 1. Bentuk Matriks Augmented:
+   Mulai
    Gabungkan matriks koefisien A (3x3) dan vektor konstanta b (3x1) menjadi matriks augmented [A|b] berukuran 3x4.
 
 2. Eliminasi Forward (Forward Elimination):
